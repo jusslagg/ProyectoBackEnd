@@ -1,0 +1,27 @@
+[
+  {
+    "id": "GQZIJ56923",
+    "code": "ABYMN50123",
+    "status": true,
+    "title": "The Legend of Zelda: Breath of the Wild",
+    "description": "Un juego de aventura en un mundo abierto de fantasía",
+    "category": "Aventura",
+    "price": 60000,
+    "stock": 25
+  },
+  {
+    "id": "PLMSB43257",
+    "code": "XYJZN98564",
+    "status": true,
+    "title": "Super Mario Odyssey",
+    "description": "Un juego de plataformas con Mario en diferentes mundos",
+    "category": "Plataforma",
+    "price": 50000,
+    "stock": 20
+  },
+  {
+    "id": 1622057834000,
+    "code": "Xb6#ae#7",
+    "status": true
+  }
+]
